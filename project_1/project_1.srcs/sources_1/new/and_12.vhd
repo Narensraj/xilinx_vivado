@@ -40,5 +40,6 @@ architecture Behavioral of and_12 is
 
 begin
 
+y <= a and b; --  a and b are and operated and the output is saved in y
 
 end Behavioral;
