@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Wed Nov 26 07:26:37 2025
+# Process ID: 63104
+# Current directory: E:/xilinx_vivado/project_2/project_2.runs/impl_1
+# Command line: vivado.exe -log adder.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source adder.tcl -notrace
+# Log file: E:/xilinx_vivado/project_2/project_2.runs/impl_1/adder.vdi
+# Journal file: E:/xilinx_vivado/project_2/project_2.runs/impl_1\vivado.jou
+# Running On: DESKTOP-GU4IL4Q, OS: Windows, CPU Frequency: 2611 MHz, CPU Physical cores: 4, Host memory: 16905 MB
+#-----------------------------------------------------------
+source adder.tcl -notrace
