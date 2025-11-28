@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/xilinx_vivado/project_5/project_5.sim/sim_1/synth/func/xsim/ram_tb_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ram_4'
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/xilinx_vivado/project_5/project_5.srcs/sim_1/new/ram_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ram_tb'
